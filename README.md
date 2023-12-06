@@ -1,3 +1,3 @@
 # HTML-Personal-Site
-Day  SIte # 2
+Day 1 SIte # 2
 
